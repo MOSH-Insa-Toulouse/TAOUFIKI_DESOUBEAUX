@@ -20,3 +20,9 @@ Pour ce faire, nous allons colorier au crayon la surface du capteur pour laisser
 
 La chaîne de mesure est basée sur l'acquisition d'un signal associée à la variation de résistance du capteur. Nous avons alors réalisé un shield PCB à l'aide du logiciel KiCad contenant un amplificateur transimpédance, un encodeur rotatoire, un module Bluetooth et un écran OLED. Ce shield est ensuite placé sur une carte Arduino UNO, programmé par un code C++ Arduino à l'aide du logiciel Arduino IDE. Les mesures de résistances sont également trannsmises par Bluetooth et interfacées sur une application Android APK créée sur MIT App Inventor.
 
+# 2. Code Arduino
+# 3. KiCad
+# 4. APK : Application Android
+# 5. Datasheet du capteur
+# 6. Banc de test
+# 7. Conclusion et pistes d'amélioration
