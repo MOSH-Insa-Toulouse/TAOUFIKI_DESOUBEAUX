@@ -29,6 +29,11 @@ Nous avons ensuite réalisé un code développé sous Arduino IDE, qui nous perm
 # 3. KiCad
 
 ## Empreintes et symboles
+
+- Amplificateur LTC1050
+- Module Bluetooth
+- Encodeur rotatoire
+- Ecran OLED
 ## Schématique
 ## Visualisation 3D
 
