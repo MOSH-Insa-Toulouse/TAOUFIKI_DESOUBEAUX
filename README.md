@@ -64,11 +64,11 @@ Nous avons réalisé une application Android, via le site Internet MIT App Inven
 
 ## Code
 
-<img src="/APK/Code APK.png"> 
+<img src="/APK/Code APK.png" width="600" height="600"> 
 
 ## Interface
 
-<img src="/APK/Interface APK.JPG"> 
+<img src="/APK/Interface APK.JPG" width="400" height="150"> 
 
 # 5. Datasheet du capteur
 # 6. Banc de test
