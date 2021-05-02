@@ -31,7 +31,11 @@ Nous avons ensuite réalisé un code développé sous Arduino IDE, qui nous perm
 ## Empreintes et symboles
 
 - Amplificateur LTC1050
+
+
 <img src="/KiCad/Composants/AmpliLTC1050/LTC1050.png" width="400" height="150"> <img src="/KiCad/Composants/AmpliLTC1050/AmpliLTC1050.png" width="400" height="150"> 
+
+
 - Module Bluetooth
 - Encodeur rotatoire
 - Ecran OLED
