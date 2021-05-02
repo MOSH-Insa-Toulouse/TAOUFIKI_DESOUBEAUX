@@ -1,4 +1,4 @@
-# TAOUFIKI_DESOUBEAUX
+# CAPTEUR DE GRAPHITE TAOUFIKI_DESOUBEAUX
 # Sommaire
 <!-- TOC depthFrom:2 -->
   - [1. Description](#1-Description)
@@ -26,8 +26,13 @@ Pour développer notre code Arduino, nous avons d'abord du installer trois libra
 
 Nous avons ensuite réalisé un code développé sous Arduino IDE, qui nous permet de contrôler un module Bluetooth, un amplificateur transimpédance et un écran OLED et permet la mesure de résistance de notre graphite. Ce code se situe dans le dossier 
 
-
 # 3. KiCad
+
+## Empreintes et symboles
+## Schématique
+## Visualisation 3D
+
+
 # 4. APK : Application Android
 # 5. Datasheet du capteur
 # 6. Banc de test
