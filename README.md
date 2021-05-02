@@ -37,6 +37,10 @@ Nous avons ensuite réalisé un code développé sous Arduino IDE, qui nous perm
 
 
 - Module Bluetooth
+
+
+<img src="/KiCad/Composants/ModuleBluetooth/Module Bluetooth.png" width="400" height="150"> <img src="/KiCad/Composants/ModuleBluetooth/Empreinte bluetooth.png" width="400" height="150"> 
+
 - Encodeur rotatoire
 - Ecran OLED
 ## Schématique
