@@ -84,6 +84,12 @@ On place d'abord les pinces crocodiles sur le capteur, après avoir colorié ce 
 
 # 6. Résultats et discussion
 
+Avec ce banc de tests, nous obtenons les résultats suivants :
+
+<img src="/Mesures/Courbes/B pencil .png" width="600" height="500"> <img src="/Mesures/Courbes/H pencil.png" width="600" height="500"> 
+<img src="/Mesures/Courbes/HB pencil.png" width="600" height="500"> 
+
+
 Problème de répétabilité 
 
 # 7. Datasheet du capteur
