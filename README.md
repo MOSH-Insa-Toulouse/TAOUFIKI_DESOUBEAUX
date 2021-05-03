@@ -107,3 +107,9 @@ Deux limites principales sont ici à mentionner quant à l'utilisation de ce ban
 Vous pouvez retrouver notre datasheet [ici](/Datasheet).
 
 # 8. Contact
+
+Nous tenons à remercier tous nos professeurs pour leur aide lors de l'élaboration de ce projet, notamment M. Grisolia, Mme. Crouzet et M. Biganzoli.
+
+Pour toute question, merci de nous contacter : 
+- Ines TAOUFIKI : taoufiki@etud.insa-toulouse.fr
+- Juliette DESOUBEAUX : desoubea@etud.insa-toulouse.fr
