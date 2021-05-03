@@ -91,6 +91,10 @@ Avec ce banc de tests, nous obtenons les courbes suivantes réalisées sous Pyth
 <img src="/Mesures/Courbes/HB pencil.png" width="700" height="400">
 <img src="/Mesures/Courbes/Comparison pencils.png" width="700" height="400">
 
+Plusieurs remarques peuvent être faites :
+- Les courbes suivent une évolution quasi-linéaire
+- On peut aussi avancer que plus le crayon est dur, plus la variation de résistance est élevée. Pour un crayon H par exemple, la résistance varie de 41 à 99 MΩ alors que pour un crayon B, elle varie de 37 à 27 MΩ.
+
 ## Discussion
 
 Problème de répétabilité 
