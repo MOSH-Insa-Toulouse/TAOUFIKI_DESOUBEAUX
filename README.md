@@ -33,26 +33,26 @@ Nous avons ensuite réalisé un code développé sous Arduino IDE, qui nous perm
 - Amplificateur LTC1050
 
 
-<img src="/KiCad/Composants/AmpliLTC1050/AmpliLTC1050.png" width="400" height="150">  <img src="/KiCad/Composants/AmpliLTC1050/LTC1050.png" width="400" height="150"> 
+<img src="/KiCad/Composants/AmpliLTC1050/AmpliLTC1050.png" width="450" height="150">  <img src="/KiCad/Composants/AmpliLTC1050/LTC1050.png" width="400" height="150"> 
 
 
 - Module Bluetooth
 
 
-<img src="/KiCad/Composants/ModuleBluetooth/Module Bluetooth.png" width="400" height="150"> <img src="/KiCad/Composants/ModuleBluetooth/Empreinte bluetooth.png" width="400" height="150"> 
+<img src="/KiCad/Composants/ModuleBluetooth/Module Bluetooth.png" width="400" height="200"> <img src="/KiCad/Composants/ModuleBluetooth/Empreinte bluetooth.png" width="300" height="200"> 
 
 - Encodeur rotatoire
 
-<img src="/KiCad/Composants/Encodeur/Encodeur rotatoire.png" width="400" height="150"> <img src="/KiCad/Composants/Encodeur/Empreinte encodeur.png" width="400" height="150"> 
+<img src="/KiCad/Composants/Encodeur/Encodeur rotatoire.png" width="400" height="200"> <img src="/KiCad/Composants/Encodeur/Empreinte encodeur.png" width="300" height="200"> 
 
 - Ecran OLED
 
-<img src="/KiCad/Composants/OLED/OLED.png" width="400" height="150"> <img src="/KiCad/Composants/OLED/Empreinte OLED 2.png" width="400" height="150"> 
+<img src="/KiCad/Composants/OLED/OLED.png" width="400" height="200"> <img src="/KiCad/Composants/OLED/Empreinte OLED 2.png" width="300" height="200"> 
 
 ## Schématique et circuit
 
 <img src="/KiCad/Shield complet/Circuit PCB.png" width="400" height="300"> 
-<img src="/KiCad/Shield complet/Schematique.png" width="400" height="150"> 
+<img src="/KiCad/Shield complet/Schematique.png" width="700" height="600"> 
 
 ## Visualisation 3D
 
