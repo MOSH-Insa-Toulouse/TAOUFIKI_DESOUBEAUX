@@ -92,11 +92,13 @@ Avec ce banc de tests, nous obtenons les courbes suivantes réalisées sous Pyth
 <img src="/Mesures/Courbes/Comparison pencils.png" width="700" height="400">
 
 Plusieurs remarques peuvent être faites :
-- Les courbes suivent une évolution quasi-linéaire
+- Les courbes suivent une évolution quasi-linéaire.
 - On peut aussi avancer que plus le crayon est dur, plus la variation de résistance est élevée. Pour un crayon HB par exemple, la résistance varie de 41 à 99 MΩ alors que pour un crayon B, elle varie de 37 à 27 MΩ. Il aurait fallu tester avec plus de crayons différents pour voir une tendance plus marquée. Vous pouvez retrouver le détail des mesures rassemblées dans un fichier Excel [ici](/Mesures).
 
 ## Discussion
 
-Problème de répétabilité 
+Deux limites principales sont ici à mentionner quant à l'utilisation de ce banc de test :
+- La non-répétabilité des mesures : en effet, lors du relevé des mesures, le plus infime des mouvements pouvait faire varier la résistance du tout au tout, il était donc difficile d'obtenir des valeurs de résistance proches l'une de l'autre d'un essai à l'autre.
+- Le dépot de graphite : déposer trop peu de graphite peut entraîner des problèmes de continuité électrique; il faut aussi prendre en compte la précision du tracé ou encore la pression du crayon sur le papier.
 
 # 7. Datasheet du capteur
