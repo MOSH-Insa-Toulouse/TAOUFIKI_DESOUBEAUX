@@ -85,7 +85,7 @@ On place d'abord les pinces crocodiles sur le capteur, après avoir colorié ce 
 # 6. Résultats et discussion
 
 ## Résultats
-Avec ce banc de tests, nous obtenons les courbes suivantes réalisées sous Python, représentant l'évolution de la variation relative de résistance en fonction de la déformation; ainsi qu'un graph comparant les résultats pour les 3 types de crayons testés?
+Avec ce banc de tests, nous obtenons les courbes suivantes réalisées sous Python, représentant l'évolution de la variation relative de résistance en fonction de la déformation et leurs courbes de tendance; ainsi qu'un graph comparant les résultats pour les 3 types de crayons testés:
 
 <img src="/Mesures/Courbes/B pencil.png" width="700" height="400"> <img src="/Mesures/Courbes/H pencil.png" width="700" height="400"> 
 <img src="/Mesures/Courbes/HB pencil.png" width="700" height="400">
@@ -93,7 +93,7 @@ Avec ce banc de tests, nous obtenons les courbes suivantes réalisées sous Pyth
 
 Plusieurs remarques peuvent être faites :
 - Les courbes suivent une évolution quasi-linéaire.
-- On peut aussi avancer que plus le crayon est dur, plus la variation de résistance est élevée. Pour un crayon HB par exemple, la résistance varie de 41 à 99 MΩ alors que pour un crayon B, elle varie de 37 à 27 MΩ. Il aurait fallu tester avec plus de crayons différents pour voir une tendance plus marquée. Vous pouvez retrouver le détail des mesures rassemblées dans un fichier Excel [ici](/Mesures).
+- Parmi les trois types de crayons testés, ce sont les variations de résistance des crayons H et B qui semblent les plus constantes en fonction de la déformation. On aurait pu s'attendre à ce que plus le crayon soit dur, plus la variation de résistance soit élevée. Ce n'est pas notre cas ici. Il aurait fallu tester avec plus de crayons différents pour voir une tendance plus marquée ou faire plus d'essais. Vous pouvez retrouver le détail des mesures rassemblées dans un fichier Excel [ici](/Mesures).
 
 ## Discussion
 
