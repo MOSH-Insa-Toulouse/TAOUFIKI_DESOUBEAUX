@@ -56,7 +56,7 @@ Nous avons ensuite réalisé un code développé sous Arduino IDE, qui nous perm
 
 ## Visualisation 3D
 
-<img src="/KiCad/Shield complet/PCB 3D.png" width="400" height="150"> 
+<img src="/KiCad/Shield complet/PCB 3D.png" width="700" height="500"> 
 
 # 4. APK : Application Android
 
