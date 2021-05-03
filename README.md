@@ -33,7 +33,7 @@ Nous avons ensuite réalisé un code développé sous Arduino IDE, qui nous perm
 - Amplificateur LTC1050
 
 
-<img src="/KiCad/Composants/AmpliLTC1050/AmpliLTC1050.png" width="450" height="150">  <img src="/KiCad/Composants/AmpliLTC1050/LTC1050.png" width="300" height="170"> 
+<img src="/KiCad/Composants/AmpliLTC1050/AmpliLTC1050.png" width="450" height="150">  <img src="/KiCad/Composants/AmpliLTC1050/LTC1050.png" width="300" height="185"> 
 
 
 - Module Bluetooth
