@@ -73,5 +73,8 @@ Nous avons réalisé une application Android, via le site Internet MIT App Inven
 # 5. Banc de test
 
 
+
 # 6. Datasheet du capteur
 # 7. Conclusion et pistes d'amélioration
+
+Problème de répétabilité 
