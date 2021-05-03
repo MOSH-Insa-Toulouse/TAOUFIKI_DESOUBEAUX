@@ -6,8 +6,9 @@
   - [3. KiCAD](#3-KiCAD)
   - [4. Application Android](#4-Application-Android)
   - [5. Banc de test](#5-Banc-de-test)
-  - [6. Résultats et discussion](#7-Résultats-et-discussion)
-  - [7. Datasheet du capteur](#6-Datasheet-du-capteur)
+  - [6. Résultats et discussion](#6-Résultats-et-discussion)
+  - [7. Datasheet du capteur](#7-Datasheet-du-capteur)
+  - [8. Contact](#8-Contact)
 <!-- /TOC -->
 
 # 1. Description 
@@ -104,3 +105,5 @@ Deux limites principales sont ici à mentionner quant à l'utilisation de ce ban
 # 7. Datasheet du capteur
 
 Vous pouvez retrouver notre datasheet [ici](/Datasheet).
+
+# 8. Contact
