@@ -70,6 +70,6 @@ Nous avons réalisé une application Android, via le site Internet MIT App Inven
 
 <img src="/APK/Interface APK.JPG" width="350" height="700"> 
 
-# 5. Datasheet du capteur
-# 6. Banc de test
+# 5. Banc de test
+# 6. Datasheet du capteur
 # 7. Conclusion et pistes d'amélioration
