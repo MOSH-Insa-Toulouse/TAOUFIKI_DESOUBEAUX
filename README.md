@@ -84,11 +84,14 @@ On place d'abord les pinces crocodiles sur le capteur, après avoir colorié ce 
 
 # 6. Résultats et discussion
 
-Avec ce banc de tests, nous obtenons les courbes suivantes, représentant l'évolution de la variation relative de résistance en fonction de la déformation; ainsi qu'un graph comparant les résultats pour les 3 types de crayons testés?
+## Résultats
+Avec ce banc de tests, nous obtenons les courbes suivantes réalisées sous Python, représentant l'évolution de la variation relative de résistance en fonction de la déformation; ainsi qu'un graph comparant les résultats pour les 3 types de crayons testés?
 
 <img src="/Mesures/Courbes/B pencil.png" width="700" height="400"> <img src="/Mesures/Courbes/H pencil.png" width="700" height="400"> 
 <img src="/Mesures/Courbes/HB pencil.png" width="700" height="400">
 <img src="/Mesures/Courbes/Comparison pencils.png" width="700" height="400">
+
+## Discussion
 
 Problème de répétabilité 
 
