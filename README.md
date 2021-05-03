@@ -60,7 +60,7 @@ Nous avons ensuite réalisé un code développé sous Arduino IDE, qui nous perm
 
 # 4. Application Android
 
-Nous avons réalisé une application Android, via le site Internet MIT App Inventor. Celle-ci assure la liaison Bluetooth avec notre Shield et affiche les valeurs mesurées de tension et de résistance au cours du temps.
+Nous avons réalisé une application Android, via le site Internet MIT App Inventor. Celle-ci assure la liaison Bluetooth avec notre Shield et permet d'afficher l'évolution relative de la résistance en temps réel dans un graph.
 
 ## Code
 
@@ -71,5 +71,7 @@ Nous avons réalisé une application Android, via le site Internet MIT App Inven
 <img src="/APK/Interface APK.JPG" width="350" height="700"> 
 
 # 5. Banc de test
+
+
 # 6. Datasheet du capteur
 # 7. Conclusion et pistes d'amélioration
