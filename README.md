@@ -51,7 +51,7 @@ Nous avons ensuite réalisé un code développé sous Arduino IDE, qui nous perm
 
 ## Schématique et circuit
 
-<img src="/KiCad/Shield complet/Circuit PCB.png" width="700" height="600"> 
+<img src="/KiCad/Shield complet/Circuit PCB.png" width="700" height="500"> 
 <img src="/KiCad/Shield complet/Schematique.png" width="900" height="600"> 
 
 ## Visualisation 3D
