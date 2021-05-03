@@ -86,8 +86,8 @@ On place d'abord les pinces crocodiles sur le capteur, après avoir colorié ce 
 
 Avec ce banc de tests, nous obtenons les résultats suivants :
 
-<img src="/Mesures/Courbes/B pencil.png" width="750" height="400"> <img src="/Mesures/Courbes/H pencil.png" width="750" height="400"> 
-<img src="/Mesures/Courbes/HB pencil.png" width="750" height="400">
+<img src="/Mesures/Courbes/B pencil.png" width="700" height="400"> <img src="/Mesures/Courbes/H pencil.png" width="700" height="400"> 
+<img src="/Mesures/Courbes/HB pencil.png" width="700" height="400">
 
 
 Problème de répétabilité 
