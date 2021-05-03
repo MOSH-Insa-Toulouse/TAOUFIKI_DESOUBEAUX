@@ -24,7 +24,7 @@ La chaîne de mesure est basée sur l'acquisition d'un signal associée à la va
 
 Pour développer notre code Arduino, nous avons d'abord du installer trois librairies Adafruit : Adafruit_GFX_Library et Adafruit_SSD1306 pour le contrôle de nos modules et Adafruit_BusIO pour la connexion entre SPI et I2C. 
 
-Nous avons ensuite réalisé un code développé sous Arduino IDE, qui nous permet de contrôler un module Bluetooth, un amplificateur transimpédance et un écran OLED et permet la mesure de résistance de notre graphite. Ce code se trouve [ici](/Capteur_de_graphite.ino)
+Nous avons ensuite réalisé un code développé sous Arduino IDE, qui nous permet de contrôler un module Bluetooth, un amplificateur transimpédance et un écran OLED et permet la mesure de résistance de notre graphite. Ce code se trouve [ici](/Capteur_de_graphite.ino).
 
 # 3. KiCad
 
