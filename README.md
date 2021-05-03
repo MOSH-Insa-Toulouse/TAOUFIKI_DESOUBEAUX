@@ -102,3 +102,5 @@ Deux limites principales sont ici à mentionner quant à l'utilisation de ce ban
 - Le dépot de graphite : déposer trop peu de graphite peut entraîner des problèmes de continuité électrique; il faut aussi prendre en compte la précision du tracé ou encore la pression du crayon sur le papier.
 
 # 7. Datasheet du capteur
+
+Vous pouvez retrouver notre datasheet [ici](/Datasheet).
