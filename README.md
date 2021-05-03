@@ -4,9 +4,9 @@
   - [1. Description](#1-Description)
   - [2. Code Arduino](#2-Code-Arduino)
   - [3. KiCAD](#3-KiCAD)
-  - [4. APK : Application Android](#4-Application-Android)
-  - [5. Datasheet du capteur](#5-Datasheet-du-capteur)
-  - [6. Banc de test](#5-Banc-de-test)
+  - [4. Application Android](#4-Application-Android)
+  - [5. Banc de test](#5-Banc-de-test)
+  - [6. Datasheet du capteur](#6-Datasheet-du-capteur)
   - [7. Conclusion et pistes d'amélioration](#7-Conclusion-et-Pistes-d-amélioration)
 <!-- /TOC -->
 
@@ -58,7 +58,7 @@ Nous avons ensuite réalisé un code développé sous Arduino IDE, qui nous perm
 
 <img src="/KiCad/Shield complet/PCB 3D.png" width="700" height="500"> 
 
-# 4. APK : Application Android
+# 4. Application Android
 
 Nous avons réalisé une application Android, via le site Internet MIT App Inventor. Celle-ci assure la liaison Bluetooth avec notre Shield et affiche les valeurs mesurées de tension et de résistance au cours du temps.
 
