@@ -74,7 +74,7 @@ Nous avons réalisé une application Android, via le site Internet MIT App Inven
 
 Notre banc de test est composé d'une carte Arduino sur laquelle on a placé notre shield et branchée par un câble USB à l'ordinateur. Les pinces crocodiles permettent d'immobiliser le capteur de graphite et de relever les mesures de résistance.
 
-<img src="/Mesures/Dispositif.png" width="530" height="560"> 
+<img src="/Mesures/Dispositif.png" width="550" height="560"> 
 
 
 # 6. Datasheet du capteur
