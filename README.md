@@ -6,8 +6,8 @@
   - [3. KiCAD](#3-KiCAD)
   - [4. Application Android](#4-Application-Android)
   - [5. Banc de test](#5-Banc-de-test)
-  - [6. Datasheet du capteur](#6-Datasheet-du-capteur)
-  - [7. Conclusion et pistes d'amélioration](#7-Conclusion-et-Pistes-d-amélioration)
+  - [6. Résultats et discussion](#7-Résultats-et-discussion)
+  - [7. Datasheet du capteur](#6-Datasheet-du-capteur)
 <!-- /TOC -->
 
 # 1. Description 
@@ -82,7 +82,8 @@ Afin de mesurer les variations de résistance, nous avons utilisé un dispositif
 
 On place d'abord les pinces crocodiles sur le capteur, après avoir colorié ce dernier avec le crayon qui nous intéresse pour la mesure. On place ensuite notre capteur sur le demi-cercle au rayon le plus grand, pour éviter de trop abimer le capteur dès le début. On repète cette dernier opération jusqu'à arriver au demi-cercle de plus petit rayon.
 
-# 6. Datasheet du capteur
-# 7. Conclusion et pistes d'amélioration
+# 6. Résultats et discussion
 
 Problème de répétabilité 
+
+# 7. Datasheet du capteur
