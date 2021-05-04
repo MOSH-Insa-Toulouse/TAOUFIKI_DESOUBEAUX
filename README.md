@@ -98,9 +98,9 @@ Plusieurs remarques peuvent être faites :
 
 ## Discussion
 
-Deux limites principales sont ici à mentionner quant à l'utilisation de ce banc de test :
+Deux limites principales sont ici à mentionner quant à l'utilisation de ce banc de tests :
 - La non-répétabilité des mesures : en effet, lors du relevé des mesures, le plus infime des mouvements pouvait faire varier la résistance du tout au tout, il était donc difficile d'obtenir des valeurs de résistance proches l'une de l'autre d'un essai à l'autre.
-- Le dépot de graphite : déposer trop peu de graphite peut entraîner des problèmes de continuité électrique; il faut aussi prendre en compte la précision du tracé ou encore la pression du crayon sur le papier.
+- Le dépôt de graphite : déposer trop peu de graphite pouvait entraîner des problèmes de continuité électrique; il faut aussi prendre en compte la précision du tracé ou encore la pression du crayon sur le papier.
 
 # 7. Datasheet du capteur
 
