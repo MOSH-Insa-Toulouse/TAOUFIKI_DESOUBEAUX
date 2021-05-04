@@ -95,12 +95,13 @@ Avec ce banc de tests, nous obtenons les courbes suivantes réalisées sous Pyth
 Plusieurs remarques peuvent être faites :
 - Les courbes suivent une évolution quasi-linéaire.
 - Parmi les trois types de crayons testés, ce sont les variations de résistance des crayons H et B qui semblent les plus constantes en fonction de la déformation. On aurait pu s'attendre à ce que plus le crayon soit dur, plus la variation de résistance soit élevée. Ce n'est pas notre cas ici. Il aurait fallu tester avec plus de crayons différents pour voir une tendance plus marquée ou faire plus d'essais. Vous pouvez retrouver le détail des mesures rassemblées dans un fichier Excel [ici](/Mesures).
+- Nous obtenons comme facteurs de jauge : 1,37 pour le crayon H, 1,89 pour le crayon B et 52,7 pour le crayon HB.
 
 ## Discussion
 
 Deux limites principales sont ici à mentionner quant à l'utilisation de ce banc de tests :
 - La non-répétabilité des mesures : en effet, lors du relevé des mesures, le plus infime des mouvements pouvait faire varier la résistance du tout au tout, il était donc difficile d'obtenir des valeurs de résistance proches l'une de l'autre d'un essai à l'autre.
-- Le dépôt de graphite : déposer trop peu de graphite pouvait entraîner des problèmes de continuité électrique; il faut aussi prendre en compte la précision du tracé ou encore la pression du crayon sur le papier.
+- Le dépôt de graphite : déposer trop peu de graphite pouvait entraîner des problèmes de continuité électrique; il faut aussi prendre en compte la précision du tracé ou encore la pression du crayon sur le papier qui peut varier d'un essai à l'autre et entraîner des variations du facteur de jauge.
 
 # 7. Datasheet du capteur
 
