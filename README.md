@@ -5,7 +5,7 @@
   - [2. Code Arduino](#2-Code-Arduino)
   - [3. KiCAD](#3-KiCAD)
   - [4. Application Android](#4-Application-Android)
-  - [5. Banc de test](#5-Banc-de-test)
+  - [5. Banc de tests](#5-Banc-de-tests)
   - [6. Résultats et discussion](#6-Résultats-et-discussion)
   - [7. Datasheet du capteur](#7-Datasheet-du-capteur)
   - [8. Contact](#8-Contact)
@@ -71,7 +71,7 @@ Nous avons réalisé une application Android, via le site Internet MIT App Inven
 
 <img src="/APK/Interface APK.JPG" width="350" height="700"> 
 
-# 5. Banc de test
+# 5. Banc de tests
 
 Notre banc de test est composé d'une carte Arduino sur laquelle on a placé notre shield et branchée par un câble USB à l'ordinateur. Les pinces crocodiles permettent d'immobiliser le capteur de graphite et de relever les mesures de résistance.
 
