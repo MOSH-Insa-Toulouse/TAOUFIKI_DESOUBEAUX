@@ -81,7 +81,7 @@ Afin de mesurer les variations de résistance, nous avons utilisé un dispositif
 
 <img src="/Mesures/Bancdetest.png" width="600" height="500"> 
 
-On place d'abord les pinces crocodiles sur le capteur, après avoir colorié ce dernier avec le crayon qui nous intéresse pour la mesure. On place ensuite notre capteur sur le demi-cercle au rayon le plus grand, pour éviter de trop abimer le capteur dès le début. On repète cette dernier opération jusqu'à arriver au demi-cercle de plus petit rayon.
+On place d'abord les pinces crocodiles sur le capteur, après avoir colorié ce dernier avec le crayon qui nous intéresse pour la mesure. On place ensuite notre capteur sur le demi-cercle au rayon le plus grand, pour éviter de trop abimer le capteur dès le début. On repète cette dernière opération jusqu'à arriver au demi-cercle de plus petit rayon.
 
 # 6. Résultats et discussion
 
