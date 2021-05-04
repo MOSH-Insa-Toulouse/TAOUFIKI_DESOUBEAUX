@@ -15,7 +15,7 @@
 
 Ce projet a été réalisé au cours de l'unité de formation "Du Capteur au Banc de Test" de la 4ème année du cursus “Génie Physique” à l’INSA de Toulouse.  L'objectif de ce dernier est la réalisation d'un capteur de déformation à base de graphite, peu onéreux, flexible, léger et écoresponsable.
 
-Ce capteur exploite la dépendance entre la conductivité électrique et la distance entre les nanoparticules de graphite. En  effet, les électrons se déplacent entre les nanoparticules de graphite par effet tunnel. En appliquant de plus une contrainte mécanique, l'échantillon se déforme, ce qui affecte la distance entre les nanoparticules du capeur et modifie ainsi la conductivité électrique, ce qui se traduit par une variation de résistance, qu'on peut alors mesurer.
+Ce capteur exploite la dépendance entre la conductivité électrique et la distance entre les nanoparticules de graphite. En  effet, les électrons se déplacent entre les nanoparticules de graphite par effet tunnel. En appliquant de plus une contrainte mécanique, l'échantillon se déforme, ce qui affecte la distance entre les nanoparticules du capteur et modifie ainsi la conductivité électrique, ce qui se traduit par une variation de résistance, qu'on peut alors mesurer.
 
 Pour ce faire, nous allons colorier au crayon la surface du capteur pour laisser une fine couche de graphite sur le papier. Nous avons à notre disposition plusieurs types de crayons, allant du 9H au 9B, et qui se distinguent par la concentration de graphite contenue dans chacun d'entre eux. Nous pourrons ainsi observer différents comportements de résistances en fonction des crayons utilisés.
 
